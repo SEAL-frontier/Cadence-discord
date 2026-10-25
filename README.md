@@ -1,10 +1,10 @@
-# Cadence Discord
+# (Blueprint) Slingshot
 
 [English](README_EN.md) | Tiếng Việt
 
 Gọn nhẹ. Tương thích chuẩn OpenAI. Đơn giản. Về cơ bản là một OpenAI wrapper với bảo mật tối thiểu, bộ nhớ tối thiểu, và có hỗ trợ multimodal (hình ảnh).
 
-Dự án trực thuộc **NeuralSeal**.
+Dự án thuộc **NeuralSeal**.
 
 ---
 
